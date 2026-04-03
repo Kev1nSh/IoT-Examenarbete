@@ -148,4 +148,4 @@ The bot accepts commands in Swedish, English, and Spanish.
 
 ## Authors
 
-Kevin Shocosh and John Beskow — gymnasium thesis, 2025–2026
+Kevin Shocosh and John Beskow —  IoT-/Systemutvecklare - Stockholm Tekniska Institut, 2025
